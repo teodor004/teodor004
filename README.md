@@ -1,7 +1,8 @@
 <table align="center" width="100%">
   <tr>
     <td bgcolor="#0d1117" align="left" colspan="4">
-      <h3><b>Hi there, I'm Teo :3</b></h3>
+      <h3><b>>_ HI, I'M TEO</b></h3>
+      <p><b>Building scalable systems & breaking them for fun.</b></p>
     </td>
     <td bgcolor="#0d1117" align="right" colspan="2">
       <a href="https://teospace.me/" target="_blank">
@@ -36,10 +37,10 @@
   
   <tr>
     <td bgcolor="#0d1117" align="center" colspan="3" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=teodor004&show_icons=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=false&border_color=ff0000&border_radius=0&v=8" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=teodor004&show_icons=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=false&border_color=ff0000&border_radius=0&v=9" alt="GitHub Stats" width="100%" />
     </td>
     <td bgcolor="#0d1117" align="center" colspan="3" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teodor004&layout=compact&bg_color=0d1117&title_color=ff0000&text_color=ffffff&hide_border=false&border_color=ff0000&border_radius=0&v=8" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teodor004&layout=compact&bg_color=0d1117&title_color=ff0000&text_color=ffffff&hide_border=false&border_color=ff0000&border_radius=0&v=9" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
