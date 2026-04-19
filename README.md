@@ -1,7 +1,7 @@
 <table align="center" width="100%">
   <tr>
     <td bgcolor="#0d1117" align="left" colspan="4">
-      <h2>Hi there, I'm Teo :3</h2>
+      <h3><b>Hi there, I'm Teo :3</b></h3>
     </td>
     <td bgcolor="#0d1117" align="right" colspan="2">
       <a href="https://teospace.me/" target="_blank">
