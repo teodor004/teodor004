@@ -36,10 +36,10 @@
   
   <tr>
     <td bgcolor="#0d1117" align="center" colspan="3" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=teodor004&show_icons=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=false&border_color=ff0000&border_radius=0&v=12" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=teodor004&show_icons=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=false&border_color=ff0000&border_radius=0&v=11" alt="GitHub Stats" width="100%" />
     </td>
     <td bgcolor="#0d1117" align="center" colspan="3" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teodor004&layout=compact&bg_color=0d1117&title_color=ff0000&text_color=ffffff&hide_border=false&border_color=ff0000&border_radius=0&v=12" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teodor004&layout=compact&bg_color=0d1117&title_color=ff0000&text_color=ffffff&hide_border=false&border_color=ff0000&border_radius=0&v=11" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
