@@ -1,7 +1,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" colspan="6">
-      <h1>Hi there, I'm Teo ^_^</h1>
+      <h3>Hi there, I'm Teo ^_^</h3>
       <p><b>3rd-Year Student | Machine Learning | Cybersecurity | Full-Stack</b></p>
       <a href="https://teospace.me/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-teospace.me-ff0000?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=0d1117" alt="Portfolio" />
