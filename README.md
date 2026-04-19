@@ -1,8 +1,7 @@
 <table align="center" width="100%">
   <tr>
     <td bgcolor="#0d1117" align="left" colspan="4">
-      <h1>HI THERE, I'M TEO</h1>
-      <p><b>3rd-Year Student | Machine Learning | Cybersecurity | Full-Stack</b></p>
+      <h2>Hi there, I'm Teo :3</h2>
     </td>
     <td bgcolor="#0d1117" align="right" colspan="2">
       <a href="https://teospace.me/" target="_blank">
