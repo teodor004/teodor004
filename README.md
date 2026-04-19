@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Teodor 👋</h1>
+  <h1>Hi there, I'm Teo ^_^ </h1>
   <p><b>3rd-Year Student | Machine Learning | Cybersecurity | Full-Stack</b></p>
   <a href="https://teospace.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-teospace.me-ff0000?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=25292e" alt="Portfolio" />
@@ -35,5 +35,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teodor004&show_icons=true&bg_color=25292e&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&border_radius=0" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teodor004&bg_color=25292e&title_color=ff0000&text_color=ffffff&border_color=ff0000&border_radius=0" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teodor004&layout=compact&bg_color=25292e&title_color=ff0000&text_color=ffffff&border_color=ff0000&border_radius=0" alt="Top Languages" width="49%" />
 </p>
