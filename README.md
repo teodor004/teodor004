@@ -1,24 +1,74 @@
 <div align="center">
-  <h1><b>TEO // <code>sys.admin</code></b></h1>
-  <p><i>Building neural nets, securing systems, and crafting web nodes ⚡</i></p>
-  <a href="https://teospace.me/" target="_blank">
-    <img src="https://img.shields.io/badge/[_ACCESS_PORTFOLIO_]-ff0000?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=0d1117" alt="Portfolio" />
-  </a>
+
+<h1 style="color:#ff2c2c;">Teo</h1>
+<p><i style="color:#999;">building cool things ⚡</i></p>
+
 </div>
+
+<table align="center" width="100%" style="border-collapse: collapse; color: #e6e6e6;">
+
+<tr>
+<td width="30%" align="center">
+
+<img src="https://avatars.githubusercontent.com/u/your-id" width="120" style="border-radius: 50%; border: 2px solid #ff2c2c;" />
+
+<br><br>
+
+<b style="color:#ff2c2c;">Focus</b>
+
+
+Full-Stack
+Machine Learning
+Cybersecurity
+
+
+</td>
+
+<td width="40%" align="center">
+
+<b style="color:#ff2c2c;">Tech Stack</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,tensorflow,linux,bash" />
+
+<br><br>
+
+<b style="color:#ff2c2c;">Projects</b>
+
+
+AI Tools
+Web Platforms
+
+
+</td>
+
+<td width="30%" align="center">
+
+<b style="color:#ff2c2c;">Stats</b>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=teodor004&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" height="120"/>
 
 <br>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="40%" bgcolor="#0d1117">
-      <h3><b>// CORE_STACK</b></h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=js,react,nodejs,py,tensorflow,linux,bash&theme=dark&perline=3" alt="Tech Stack" />
-      <br><br>
-    </td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teodor004&layout=compact&theme=dark&hide_border=true&bg_color=00000000" height="120"/>
 
-    <td align="center" width="60%" bgcolor="#0d1117">
-      <img src="https://github-readme-stats.vercel.app/api?username=teodor004&show_icons=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=false&border_color=ff0000&border_radius=0&v=10" alt="GitHub Stats" width="100%" />
-    </td>
-  </tr>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" align="center">
+
+<b style="color:#ff2c2c;">Links</b>
+
+<br><br>
+
+<a href="https://teospace.me" style="color:#ff2c2c;">Portfolio</a> •
+<a href="mailto:pinzariuteodoralexandru@gmail.com" style="color:#ff2c2c;">Email</a>
+
+</td>
+</tr>
+
 </table>
