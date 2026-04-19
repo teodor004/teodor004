@@ -33,7 +33,7 @@
   
   <tr>
     <td align="center" colspan="3" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=teodor004&show_icons=true&bg_color=00000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=teodor004&layout=compact&bg_color=00000000&title_color=ff0000&text_color=ffffff&hide_border=true" width="100%" />
     </td>
     <td align="center" colspan="3" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teodor004&layout=compact&bg_color=00000000&title_color=ff0000&text_color=ffffff&hide_border=true" alt="Top Languages" width="100%" />
