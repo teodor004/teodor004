@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=180&section=header&text=Teodor%20Alexandru%20Pinzariu&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Machine%20Learning%20%C2%B7%20Cybersecurity&descColor=ffffff&descSize=16&descAlignY=60" alt="Teodor Alexandru Pinzariu" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=180&section=header&text=Teodor%20Alexandru%20Pinzariu&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%20Engineering%20%C2%B7%20Cybersecurity&descColor=ffffff&descSize=16&descAlignY=60" alt="Teodor Alexandru Pinzariu" width="100%" />
 
 <a href="https://teospace.me/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-teospace.me-ff0000?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=25292e" alt="Portfolio" />
@@ -17,7 +17,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" colspan="2" width="33%"><b>Full-Stack</b></td>
-    <td align="center" colspan="2" width="33%"><b>Machine Learning</b></td>
+    <td align="center" colspan="2" width="33%"><b>AI Engineering</b></td>
     <td align="center" colspan="2" width="33%"><b>Cybersecurity</b></td>
   </tr>
 
@@ -29,9 +29,10 @@
       <img src="https://img.shields.io/badge/Node.js-ff0000?style=flat-square&logo=nodedotjs&logoColor=ffffff&labelColor=25292e" />
     </td>
     <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/Claude_Code-ff0000?style=flat-square&logo=anthropic&logoColor=ffffff&labelColor=25292e" />
+      <img src="https://img.shields.io/badge/Multi--Agent-ff0000?style=flat-square&logo=probot&logoColor=ffffff&labelColor=25292e" /><br>
       <img src="https://img.shields.io/badge/Python-ff0000?style=flat-square&logo=python&logoColor=ffffff&labelColor=25292e" />
-      <img src="https://img.shields.io/badge/SciKit_Learn-ff0000?style=flat-square&logo=scikitlearn&logoColor=ffffff&labelColor=25292e" /><br>
-      <img src="https://img.shields.io/badge/TensorFlow-ff0000?style=flat-square&logo=tensorflow&logoColor=ffffff&labelColor=25292e" />
+      <img src="https://img.shields.io/badge/AWS-ff0000?style=flat-square&logo=amazonwebservices&logoColor=ffffff&labelColor=25292e" />
     </td>
     <td align="center" colspan="2">
       <img src="https://img.shields.io/badge/Kali_Linux-ff0000?style=flat-square&logo=kalilinux&logoColor=ffffff&labelColor=25292e" />
