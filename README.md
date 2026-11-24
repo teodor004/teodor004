@@ -80,14 +80,20 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/teodor004/Polihack_V16"><b>Polihack_V16</b></a><br>
-      Hackathon project: a modified workout page.<br><br>
+      <a href="https://github.com/teodor004/quake-dispatch"><b>quake-dispatch</b></a><br>
+      Crowdsourced real-time earthquake detection &amp; automated emergency voice dispatch on AWS. Streams 20 Hz phone IMU + GPS to pure-Python DSP Lambdas with spatial/temporal quorum, CloudFront dashboard, and Twilio/Polly voice calls.<br><br>
+      <img src="https://img.shields.io/badge/Python-ff0000?style=flat-square&labelColor=25292e" />
+      <img src="https://img.shields.io/badge/AWS-ff0000?style=flat-square&labelColor=25292e" />
+      <img src="https://img.shields.io/badge/Terraform-ff0000?style=flat-square&labelColor=25292e" />
       <img src="https://img.shields.io/badge/TypeScript-ff0000?style=flat-square&labelColor=25292e" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/teodor004/Polihack_V15"><b>Polihack_V15</b></a><br>
-      Hackathon project: a web front end with a chatbot.<br><br>
-      <img src="https://img.shields.io/badge/HTML-ff0000?style=flat-square&labelColor=25292e" />
+      <a href="https://github.com/swwdxsama/DataInfrastructure_Capsunelele"><b>DataInfrastructure_Capsunelele</b></a><br>
+      Hackathon team repository for quake-dispatch (Data-Driven Infrastructure Engineering): multi-branch AWS serverless pipeline, Expo mobile sensor app, React/Leaflet live dashboard, and OIDC CI/CD.<br><br>
+      <img src="https://img.shields.io/badge/AWS-ff0000?style=flat-square&labelColor=25292e" />
+      <img src="https://img.shields.io/badge/Terraform-ff0000?style=flat-square&labelColor=25292e" />
+      <img src="https://img.shields.io/badge/React-ff0000?style=flat-square&labelColor=25292e" />
+      <img src="https://img.shields.io/badge/Expo-ff0000?style=flat-square&labelColor=25292e" />
     </td>
   </tr>
 </table>
